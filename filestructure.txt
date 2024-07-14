@@ -1,0 +1,17 @@
+services_warranty_invoice_checker/
+│
+├── app/
+│   ├── __init__.py
+│   ├── routes.py
+│   ├── models.py
+│   └── templates/
+│       ├── base.html
+│       └── index.html
+│
+├── venv/
+│
+├── .env
+├── .gitignore
+├── README.md
+├── requirements.txt
+└── app.py
